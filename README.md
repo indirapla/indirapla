@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @indirapla
 
-I’m interested in multiOMICs bioinformatic projects/Currently learning proteomics data analysis/Looking to collaborate on maching learning projects
+I’m interested in multiOMICs bioinformatic projects/Currently learning proteomics data analysis/Looking to collaborate on maching learning projects.
 
 You can reach me at: indira.pla_parada@med.lu.se 
 
