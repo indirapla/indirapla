@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @indirapla
-- 👀 I’m interested in multiOMICs bioinformatic projects
-- 🌱 I’m currently learning proteomics data analysis
-- 💞️ I’m looking to collaborate on maching learning projects
-- 📫 How to reach me: indira.pla_parada@med.lu.se 
+
+I’m interested in multiOMICs bioinformatic projects/Currently learning proteomics data analysis/Looking to collaborate on maching learning projects
+
+You can reach me at: indira.pla_parada@med.lu.se 
 
 <!---
 indirapla/indirapla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
